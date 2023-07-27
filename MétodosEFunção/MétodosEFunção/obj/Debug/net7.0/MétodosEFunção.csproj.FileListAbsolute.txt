@@ -1,0 +1,15 @@
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\bin\Debug\net7.0\MétodosEFunção.exe
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\bin\Debug\net7.0\MétodosEFunção.deps.json
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\bin\Debug\net7.0\MétodosEFunção.runtimeconfig.json
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\bin\Debug\net7.0\MétodosEFunção.dll
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\bin\Debug\net7.0\MétodosEFunção.pdb
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.csproj.AssemblyReference.cache
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.AssemblyInfoInputs.cache
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.AssemblyInfo.cs
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.csproj.CoreCompileInputs.cache
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.dll
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\refint\MétodosEFunção.dll
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.pdb
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\MétodosEFunção.genruntimeconfig.cache
+C:\Users\zorin\OneDrive\Documentos\CS\MétodosEFunção\MétodosEFunção\obj\Debug\net7.0\ref\MétodosEFunção.dll
